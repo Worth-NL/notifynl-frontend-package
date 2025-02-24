@@ -28,19 +28,11 @@
     "node": ">= 4.2.0"
   },
   "author": {
-    "name": "GOV.UK Design System Team (Government Digital Service)",
-    "email": "design-system-developers@digital.cabinet-office.gov.uk"
+    "name": "Worth Internet Systems",
+    "email": "rabril@worth.systems"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/alphagov/govuk-frontend.git"
-  },
-  "bugs": {
-    "url": "https://github.com/alphagov/govuk-frontend/issues"
-  },
-  "homepage": "https://frontend.design-system.service.gov.uk/",
   "keywords": [
-    "govuk",
+    "NotifyNL",
     "frontend",
     "design system",
     "template"
