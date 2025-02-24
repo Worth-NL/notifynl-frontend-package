@@ -19,7 +19,7 @@
         font-family: "Rijksoverheid";
         font-style: normal;
         font-weight: normal;
-        src: govuk-font-url("rijksoverheidserif-regular.ttf") format("truetype");
+        src: govuk-font-url("rijksoverheidsanstext-regular.ttf") format("truetype");
         font-display: fallback;
       }
 
@@ -27,7 +27,7 @@
         font-family: "Rijksoverheid";
         font-style: normal;
         font-weight: bold;
-        src: govuk-font-url("rijksoverheidserif-bold.ttf") format("truetype");
+        src: govuk-font-url("rijksoverheidsansheading-bold.ttf") format("truetype");
         font-display: fallback;
       }
     }
